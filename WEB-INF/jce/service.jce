@@ -1,0 +1,7 @@
+module hellosvr {
+
+	interface HelloWord
+	{
+	   string sayHello();
+	};
+};

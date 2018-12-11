@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<services>
+    <service name="HelloObj">
+        <home-api>com.qq.component.test.share.HelloConst</home-api>
+        <home-class>com.qq.component.test.impl.HelloWordImpl</home-class>
+    </service>
+</services>
